@@ -1,0 +1,23 @@
+E:\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+E:\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+E:\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+E:\ProjectA\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
+E:\ProjectA\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+E:\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.Cache
+E:\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+E:\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+E:\ProjectA\ProjectA\obj\Debug\ProjectA.Person.resources
+E:\ProjectA\ProjectA\obj\Debug\ProjectA.HomePage.resources
+E:\ProjectA\ProjectA\obj\Debug\ProjectA.StudentsRecord.resources
+E:\ProjectA\ProjectA\obj\Debug\ProjectA.Advisor.resources
+C:\Users\tayyaba rasheed\Desktop\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\tayyaba rasheed\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\tayyaba rasheed\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\tayyaba rasheed\Desktop\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\tayyaba rasheed\Desktop\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\tayyaba rasheed\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
+C:\Users\tayyaba rasheed\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.Person.resources
+C:\Users\tayyaba rasheed\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.HomePage.resources
+C:\Users\tayyaba rasheed\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\tayyaba rasheed\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.StudentsRecord.resources
+C:\Users\tayyaba rasheed\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.Cache
